@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "rm -rf dist && parcel build src/test.html --public-url dist/"
+    "build": "rm -rf dist && parcel build src/test.html --public-url ./"
   },
   "name": "pikachu",
   "version": "1.0.0",
